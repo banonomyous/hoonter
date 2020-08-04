@@ -1,0 +1,22 @@
+{
+    "EntitySig": "00 00 2C 00 01 04 ? 01 00 01 00 00 ? ? ? 00 00 00 00 00 00 00 00 00",
+    "MapIDOffset": 29455560,
+    "CurrentWorldNameSig": "00 00 ? ? 17 00 00 00 00 00 FF FF FF FF 8E 6A 0C FF",
+    "EntityPositionOffset": 160,
+    "PlayerPositionSig": "38 C5 19 E4 F7 7F 00 00",
+    "PlayerPositionOffset": 24,
+    "EntityNameOffset": 48,
+    "EntityCount": 100,
+    "EntityLength": 11456,
+    "EntityHPOffset": 6296,
+    "CurrentWorldNameOffset": 56,
+    "EntityListStartOffset": -136,
+    "EntityIDOffset": 116,
+    "EntityBNpcNameIDOffset": 6248,
+    "EntityCurrentWorldIDOffset": 6276,
+    "EntityHomeWorldIDOffset": 6278,
+    "InstanceNumberOffset": 29747908,
+    "EntityHeader": 54712,
+    "DebugLogging": false,
+    "BufferLengthLimit": 50000
+  }
